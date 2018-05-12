@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6859'
     url: http://www.gutenberg.org/2009/agents/6859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16675#Tommy-Atkins-at-War--As-Told-in-His-Own-Letters
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-09-08'
 gutenberg_type: Text
